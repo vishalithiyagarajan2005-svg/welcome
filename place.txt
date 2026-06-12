@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 place: bangalore
 =======
 place: chennai
 0288 quotes have been tagged as friendship: Albert Camus: ‘Don’t walk in …
 >>>>>>> branch1
+=======
+place: chennai
+0288 quotes have been tagged as friendship: Albert Camus: ‘Don’t walk in …
+place: bangalore
+>>>>>>> 81894187e91809cd5ffa2b94a46f0e47c6e1846f
